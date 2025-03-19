@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using VetClinicBackend.Conversion;
 using VetClinicBackend.Database;
-using VetClinicBackend.DbModels;
 using VetClinicBackend.Model;
 
 namespace VetClinicBackend.Service.OwnerService;
